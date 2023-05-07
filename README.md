@@ -26,8 +26,7 @@ Users should be able to:
 - See a hover state on desktop for the Sign Up call-to-action
 
 ### Screenshot
-
-![](./screenshot.jpg)
+<img src="./images/Webpage-Screenshot.png" alt="Desktop Webpage Screenshot" width="700">
 
 ### Links
 
@@ -45,7 +44,7 @@ Users should be able to:
 
 ### What I learned
 
-I learned how to use div tags properly and got introduced to Flexbox.
+I learned how to use div tags properly and got introduced to Flexbox. Moreover, I understood css breakpoints to design the site according to screen size.
 
 ### Continued development
 
