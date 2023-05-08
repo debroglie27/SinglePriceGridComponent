@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/debroglie27/SinglePriceGridComponent)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/debroglie27/SinglePriceGridComponent)
+- Live Site URL: [Click Here](https://debroglie27.github.io/SinglePriceGridComponent/)
 
 ## My process
 
