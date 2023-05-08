@@ -52,17 +52,17 @@ I want to focus on CSS Grid because because it goes hand-in-hand with CSS Grid.
 
 ### Useful resources
 
-- [YouTube Video](https://www.youtube.com/watch?v=zJSY8tbf_ys&list=WL&index=11&t=68427s) - This helped me getting started. I really liked this tutorial especially the Flexbox part.
+- [YouTube Video](https://www.youtube.com/watch?v=zJSY8tbf_ys&list=WL&index=11&t=68427s) This helped me getting started. I really liked this tutorial especially the Flexbox part.
 - [Box-Shadow-Generator](https://cssgenerator.org/box-shadow-css-generator.html) - This helped me on generating Box Shadows.
 - [Button-Generator](https://css3buttongenerator.com/) - This helped me on generating Stylish Buttons.
 
 ## Author
-
+- Name: Arijeet De
 - GitHub - [@debroglie27](https://github.com/debroglie27)
 - Frontend Mentor - [@debroglie27](https://www.frontendmentor.io/profile/debroglie27)
 - Facebook - [@arijeet.de](https://www.facebook.com/arijeet.de)
-- instagram - [@121debroglie](https://www.instagram.com/121debroglie/)
+- Instagram - [@121debroglie](https://www.instagram.com/121debroglie/)
 
 ## Acknowledgments
 
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+This [YouTube Video](https://www.youtube.com/watch?v=zJSY8tbf_ys&list=WL&index=11&t=68427s) helped me getting started with this project. I was a complete beginner before this but now I think I am something of a Web Developer myself.
